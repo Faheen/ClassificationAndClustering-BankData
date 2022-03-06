@@ -1,2 +1,3 @@
 # ClassificationAndClustering-BankData
-Classification and Clustering of Bank Data using Hadoop, Pig and R. Using the previous transactions, assets and income of a customer we classify them into categories which can be used to approve loans
+The project comprises of the combination of Hadoop, Apache pig and R to classify and cluster the bank data to identify the target customers for a scheme such as a loan or credit card issuance or setting up a market over a place. 
+The system comprises of two stages namely classification and clustering. 
